@@ -1,8 +1,4 @@
 {
   "mainUrl": "https://app.paws.community",
-  "assetsUrl": [
-    "/_next/static/chunks/main-7cfd392e3607cf8f.js",
-    "/_next/static/chunks/pages/_app-629ab597c37fdd3d.js",
-    "/_next/static/chunks/pages/index-4a3dafed991785a1.js"
-  ]
+  "assetsUrl": ["/_next/static/chunks/pages/index-a5479f27bce2ea1a.js"]
 }

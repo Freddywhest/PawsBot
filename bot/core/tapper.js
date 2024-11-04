@@ -424,6 +424,7 @@ class Tapper {
               (quest) =>
                 quest?.code?.toLowerCase() !== "telegram" &&
                 quest?.code?.toLowerCase() !== "invite" &&
+                quest?.code?.toLowerCase() !== "boost" &&
                 quest?.progress?.claimed !== true
             );
             if (_.size(filtered_quests) > 0) {
